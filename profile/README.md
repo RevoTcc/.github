@@ -11,4 +11,4 @@ O nosso repositório apresenta nossos 3 maiores produtos:
 Nossas principais linguagens para desenvolvimento são o [Flutter](https://flutter.dev/) e o [Astro](https://astro.build/). 
 
 ## Mais informações
-[Conheça nosso instagram](ttps://instagram.com/revo.dev) 
+Conheça nosso [instagram](ttps://instagram.com/revo.dev) 

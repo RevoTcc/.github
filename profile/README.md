@@ -8,6 +8,11 @@ O nosso repositório apresenta nossos 3 maiores produtos:
 - O site do Table Ease
 - O código fonte do aplicativo Table Ease
 
+<div>
+<img src="https://github.com/RevoTcc/.github/blob/main/profile/public/images/icons/flutter.svg" width="40px" width="40px">
+<img src="https://github.com/RevoTcc/.github/blob/main/profile/public/images/icons/astro.svg" width="40px" width="40px">
+</div>
+
 Nossas principais linguagens para desenvolvimento são o [Flutter](https://flutter.dev/) e o [Astro](https://astro.build/). 
 
 ## Mais informações
